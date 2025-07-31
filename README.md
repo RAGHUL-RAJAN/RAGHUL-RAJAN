@@ -9,7 +9,7 @@ I'm a passionate QA professional focused on building robust, scalable test autom
 ## 🛠️ Skills & Tech Stack
 
 - **Languages**: Java, Python, SQL, JavaScript
-- **Test Automation**: Selenium, TestNG, Postman, Rest Assured
+- **Test Automation**: Selenium, TestNG, Postman, Rest Assured, Playwright
 - **Tools & Platforms**: Maven, Jenkins, Git, GitHub Actions, JIRA
 - **Security**: Burp Suite
 - **CI/CD**: Jenkins, GitHub Actions
