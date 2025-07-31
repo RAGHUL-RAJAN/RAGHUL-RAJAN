@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raghul Rajan
 
-🎯 **Software Test Engineer** | 💻 **Automation Enthusiast** | 🧪 **Quality Advocate**
+🎯 **Software Test Engineer** | 💻 **Automation Enthusiast** 
 
 I'm a passionate QA professional focused on building robust, scalable test automation frameworks. I love solving problems, exploring new testing tools, and bringing efficiency to the software delivery process.
 
@@ -8,11 +8,12 @@ I'm a passionate QA professional focused on building robust, scalable test autom
 
 ## 🛠️ Skills & Tech Stack
 
-- **Languages**: Java, Python, SQL
+- **Languages**: Java, Python, SQL, JavaScript
 - **Test Automation**: Selenium, TestNG, Postman, Rest Assured
 - **Tools & Platforms**: Maven, Jenkins, Git, GitHub Actions, JIRA
+- **Security**: Burp Suite
 - **CI/CD**: Jenkins, GitHub Actions
-- **Learning**: PyTest, Docker, AI in Test Automation
+- **Learning**: Docker, AI in Test Automation, Appium
 
 ---
 
